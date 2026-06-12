@@ -1,5 +1,5 @@
 # eatiausa_ai
-# Hi, i am eaatia👋
+# Hi, i am eatia👋
 
 I'm a Software Engineer with experience in Java, Python, SQL, and cloud technologies. I enjoy solving algorithmic problems, building scalable applications, and evaluating different technical approaches to identify the most accurate, efficient, and maintainable solutions.
 
